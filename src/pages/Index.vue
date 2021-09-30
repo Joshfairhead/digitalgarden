@@ -7,7 +7,8 @@
     <h1>Welcome to my digital garden</h1>
 
     <p>
-      Simply put the intention of this site is to bring my Obsidian notes alive!
+      The intention of this site is to bring my Obsidian notes alive!
+      First step is to make a menu bar (components)
     </p>
 
     <p class="home-links">
