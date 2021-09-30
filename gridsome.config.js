@@ -9,5 +9,4 @@ module.exports = {
   siteURL: 'gardening.joshafairhead.com',
   siteDescription: 'This is a garden of my notes',
   titleTemplate: ''
-  plugins: []
 }
